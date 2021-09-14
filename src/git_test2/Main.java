@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Hello helo = new Hello();
-		helo.say();
+		Hello hi = new Hello();
+		hi.say();
 		// TODO Auto-generated method stub
 
 	}
