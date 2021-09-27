@@ -5,10 +5,6 @@ public class Hello {
     String message;
 
 
-    public String hi() {
-    	return "hi";
-    }
-
     public Hello() {
         this("안녕하세요");
     }
@@ -20,7 +16,7 @@ public class Hello {
     public String say() {
         return message;
     }
-	
+
 	public String hi() {
 		return "hi";
 	}
