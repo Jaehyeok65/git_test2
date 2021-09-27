@@ -20,7 +20,10 @@ public class Hello {
     public String say() {
         return message;
     }
-
+	
+	public String hi() {
+		return "hi";
+	}
 }
 
 
